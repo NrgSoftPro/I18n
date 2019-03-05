@@ -1,2 +1,2 @@
-# I18n
+# jsI18n
 @nrg/i18n
